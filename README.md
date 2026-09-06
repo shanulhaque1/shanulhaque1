@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/get?username=shanul_haque&theme=dark)](https://leetcode.com/shanulhaque)
+<a href="https://leetcode.com/shanul_haque">
+  <img src="https://github-readme-leetcode-stats.vercel.app/api?username=shanul_haque&theme=dark" alt="LeetCode Stats" />
+</a>
