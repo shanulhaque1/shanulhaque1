@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills&border_radius=8.5)
