@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **shanulhaque1/shanulhaque1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/get?username=shanul_haque&theme=dark)](https://leetcode.com/shanulhaque)
