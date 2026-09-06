@@ -15,8 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <a href="https://leetcode.com/shanul_haque">
-    <img src="https://github-readme-leetcode-stats.vercel.app/api?username=shanul_haque&theme=dark" alt="LeetCode Stats" />
-  </a>
-</p>
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?sections=profile%2Csolved%2Cstreak%2Cskills&border_radius=8.5)
